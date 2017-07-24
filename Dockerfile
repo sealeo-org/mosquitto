@@ -1,5 +1,6 @@
 FROM alpine:3.6
-MAINTAINER Pierre GUINAULT <speed@sealeo.org>
+
+LABEL maintainer="Pierre GUINAULT <speed@sealeo.org>"
 
 LABEL Description="Eclipse Mosquitto MQTT Broker"
 
